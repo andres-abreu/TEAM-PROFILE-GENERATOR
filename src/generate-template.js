@@ -67,7 +67,7 @@ const generateTemplate = function(array) {
 </head>
 <body>
     <div class="container text-center p-4 bg-danger mb-3">
-    <h3>MY TEAM</h3>
+    <h3>My Team</h3>
     </div>
     <div class="container d-flex justify-content-around">
         ${generateCards(array)}
