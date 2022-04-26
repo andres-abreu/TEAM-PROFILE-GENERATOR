@@ -1,5 +1,3 @@
-
-   
 //Generates one card(btrap component) for each member
 const generateCards = function(array) {
     let cards = []
