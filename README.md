@@ -19,7 +19,7 @@
   </br>
 </div>
 
-This Node.js-command-line-application takes inputed-employee-information, then generates an HTML-web-page displaying the inputed-information within a structured-context.
+* This Node.js-command-line-application takes inputed-employee-information, then generates an HTML-web-page displaying the inputed-information within a structured-context.
 
 ## INSTALLATION/RUNNING-INSTRUCTIONS.
 1. Type "npm install" in the command-line with installing the dependencies needed to run the application.
