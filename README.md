@@ -33,7 +33,7 @@
 ![Screen Shot 2022-04-26 at 3 01 10 PM](https://user-images.githubusercontent.com/94572199/165377600-5fe0afd3-f6e0-4769-adb6-e5eb77bac448.png)
 
 ## FUNCTION
-This will aid a manager with organizing the manager's-team-members-information and displaying that information on a simple-layed-out-web-page.
+* This will aid a manager with organizing the manager's-team-members-information and displaying that information on a simple-layed-out-web-page.
 
 <div id="badges">
   <br/>
